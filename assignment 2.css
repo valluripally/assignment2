@@ -1,0 +1,37 @@
+header
+{
+    position: fixed;
+    width: 100%;
+    top:0px;
+    background-color:royalblue
+}
+.move{
+    float:right;
+
+}
+nav{
+   
+    top:22;
+    left:50%;
+    list-style:none;
+    position:fixed;
+    overflow:hidden;
+    
+}
+li a{
+
+    text-decoration:underline;
+    color:black;
+}
+li
+{
+    display:inline;
+}
+
+footer{
+    background-color:red;
+    text-decoration: none;
+    
+
+}
+
